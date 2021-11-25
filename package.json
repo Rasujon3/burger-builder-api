@@ -1,0 +1,11 @@
+{
+  "name": "burger-builder-api",
+  "version": "1.0.0",
+  "description": "This is an api burger builder app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujon",
+  "license": "ISC"
+}
